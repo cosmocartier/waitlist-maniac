@@ -247,7 +247,7 @@ const Nav = () => {
       <nav ref={navRef}>
         <div className="logo">
           <a href="/" onClick={(e) => handleNavigation(e, "/")}>
-            MANIAC
+            MANIAC ENTERPRISE
           </a>
         </div>
         <div className="menu-toggle-open" ref={menuOpenBtnRef}>
@@ -258,7 +258,7 @@ const Nav = () => {
       <div className="menu-overlay" ref={menuOverlayRef}>
         <div className="menu-overlay-bar" ref={menuOverlayBarRef}>
           <div className="logo">
-            <a href="/">MANIAC</a>
+            <a href="/">MANIAC ENTERPRISE</a>
           </div>
           <div className="menu-toggle-close" ref={menuCloseBtnRef}>
             <p>Close</p>

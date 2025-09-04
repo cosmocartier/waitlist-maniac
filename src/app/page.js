@@ -87,7 +87,7 @@ export default function Home() {
             </div>
 
             <div className="contact-link">
-              <a href="https://www.youtube.com/@codegrid">Youtube</a>
+              <a href="https://www.youtube.com/@codegrid">Backed with €1.6M Seed Funding</a>
             </div>
           </div>
         </section>
