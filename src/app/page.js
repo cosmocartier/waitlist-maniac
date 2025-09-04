@@ -77,13 +77,13 @@ export default function Home() {
 
           <div className="hero-header">
             <AnimatedH1 delay={showPreloader ? 5.75 : 0.85}>
-              From Startup to Enterprise.
+              QUANTUM-POWERED PREDICTION SOFTWARE.
             </AnimatedH1>
           </div>
 
           <div className="hero-footer">
             <div className="site-info">
-              <a href="https://www.youtube.com/@codegrid">Preview MVP</a>
+              <a href="https://www.youtube.com/@codegrid">Preview Prototype</a>
             </div>
 
             <div className="contact-link">
