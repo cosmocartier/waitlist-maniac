@@ -72,7 +72,9 @@ export default function Home() {
       <div className="page" ref={containerRef}>
         <section className="index-hero">
           <div className="hero-img">
-            <img src="/home/hero-img.jpg" alt="" />
+            <video autoPlay muted loop playsInline>
+              <source src="/home/hero-vid.mp4" type="video/mp4" />
+            </video>
           </div>
 
           <div className="hero-header">
