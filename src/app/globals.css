@@ -1,6 +1,6 @@
 :root {
-  --bg: #1a1a1a;
-  --copy: #bac4b8;
+  --bg: hsl(0, 0%, 10%);
+  --copy: #b8bbc4;
 }
 
 ::view-transition-old(root),
