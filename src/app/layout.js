@@ -5,8 +5,8 @@ import Nav from "./components/Nav/Nav";
 import { ViewTransitions } from "next-view-transitions";
 
 export const metadata = {
-  title: "ISOChrome | MWT by Codegrid",
-  description: "MWT by Codegrid",
+  title: "Maniac | Waitlist Room",
+  description: "Agents that see into your future.",
 };
 
 export default function RootLayout({ children }) {
