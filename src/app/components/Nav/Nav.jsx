@@ -282,7 +282,7 @@ const Nav = () => {
         <div className="menu-links">
           <div className="menu-link">
             <a href="/" onClick={(e) => handleNavigation(e, "/")}>
-              <h1>Index</h1>
+              <h1>Home</h1>
             </a>
           </div>
           <div className="menu-link">

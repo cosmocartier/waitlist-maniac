@@ -77,7 +77,7 @@ export default function Home() {
 
           <div className="hero-header">
             <AnimatedH1 delay={showPreloader ? 5.75 : 0.85}>
-              QUANTUM PREDICTION SOFTWARE.
+              From Vision to Victory.
             </AnimatedH1>
           </div>
 
